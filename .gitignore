@@ -1,1 +1,5 @@
 actions-runner/
+
+node_modules/
+npm-audit-report.json
+capturas/
